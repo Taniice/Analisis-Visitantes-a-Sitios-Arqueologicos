@@ -1,5 +1,5 @@
 # Analisis-Visitantes-a-Sitios-Arqueologicos
-Este proyecto analiza los datos de visitas a diferentes sitios arqueológicos del Perú con el objetivo de identificar patrones de afluencia turística, tendencias por año y diferencias entre regiones,
+Este proyecto analiza los datos de visitas a diferentes sitios arqueológicos del Perú con el objetivo de identificar patrones de afluencia turística, tendencias por año y crecimiento porcentual. 
 utilizando herramientas de análisis de datos como Python, Pandas y Matplotlib.
 
 Los datos utilizados provienen de registros de visitas a sitios arqueológicos del Perú, organizados por:
